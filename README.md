@@ -52,6 +52,6 @@
 
   > 早期项目, 后续考虑用V4版本的GraphQL API和TS重构
 
-- [Parcel-Tsx-Template](https://github.com/linbudu599/Parcel-Tsx-Template), 一个基于`Parcel`的**React**项目模板, 集成`antd`&`React-Router`, 已收录至官方仓库[parcel-bundler/awesome-parcel]()
+- [Parcel-Tsx-Template](https://github.com/linbudu599/Parcel-Tsx-Template), 一个基于`Parcel`的**React**项目模板, 集成`antd`&`React-Router`, 已收录至官方仓库[parcel-bundler/awesome-parcel](https://github.com/parcel-bundler/awesome-parcel)
 
 - [Webpack4.x-Template](https://github.com/linbudu599/Webpack4.x-Template), 基于`Webpack4.x`, 中等大小的项目模板
